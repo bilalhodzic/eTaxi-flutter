@@ -1,0 +1,43 @@
+name: thrifty_cab_driver
+description: A new Flutter project.
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  easy_localization:
+  flutter_animated_dialog:
+  shimmer:
+  flutter_spinkit:
+  flutter_launcher_icons: "^0.9.2"
+  cached_network_image:
+  flutter_svg: ^0.22.0
+  flutter_switch: ^0.3.2
+  pinput: ^1.2.0
+  photo_view: ^0.13.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints: ^1.0.1
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo/logo.jpg"
+  remove_alpha_ios: true
+  adaptive_icon_background: "#ffffff"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/logo/
+    - assets/icons/
+    - assets/json/

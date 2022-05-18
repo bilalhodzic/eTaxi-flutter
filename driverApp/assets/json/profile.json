@@ -1,0 +1,110 @@
+{
+    "statuscode": 200,
+    "body": {
+        "id": "61e29bd1ffc238f6418edeee",
+        "fullName": "Shikhar Raj",
+        "address": "Londom street 55/53",
+        "email": "mkblgnj@gmail.com",
+        "cityId": "61e29bd1ffc238f6418edeee",
+        "cityName": "London",
+        "phoneNumber": "+91-8858150032",
+        "employeeId": "sdhgjhsgfjhsgfjh",
+        "alternatePhoneNumber": "+91-9648920115",
+        "gender": "male",
+        "avatar": {
+            "id": "61e29bd1ffc238f6418edeee",
+            "imageUrl": "https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG.png",
+            "caption": "Hello!",
+            "mimeType": "JPEG",
+            "dateCreated": "2021-04-12T09:24:39.059756Z"
+        },
+        "kycDocuments": [
+            {
+                "id": "61e29bd1ffc238f6418edeee",
+                "documentType": "Address proof",
+                "images": [
+                    {
+                        "id": "61e29bd1ffc238f6418edeee",
+                        "imageUrl": "https://res.cloudinary.com/djisilfwk/image/upload/v1639061050/thriftycab/Docs/dl-1_e0wuxj.png",
+                        "caption": "Hello!",
+                        "mimeType": "JPEG",
+                        "dateCreated": "2021-04-12T09:24:39.059756Z"
+                    }
+                ]
+            },
+            {
+                "id": "61e29bd1ffc238f6418edeee",
+                "documentType": "Identity Proof",
+                "images": [
+                    {
+                        "id": "61e29bd1ffc238f6418edeee",
+                        "imageUrl": "https://res.cloudinary.com/djisilfwk/image/upload/v1639061047/thriftycab/Docs/27956_dobwk6.jpg",
+                        "caption": "Hello!",
+                        "mimeType": "JPEG",
+                        "dateCreated": "2021-04-12T09:24:39.059756Z"
+                    }
+                ]
+            }
+        ],
+        "licenseNumber": "AJFHF234353",
+        "licenseImage": {
+            "images": [
+                {
+                    "id": "61e29bd1ffc238f6418edeee",
+                    "imageUrl": "https://res.cloudinary.com/djisilfwk/image/upload/v1639061050/thriftycab/Docs/dl-1_e0wuxj.png",
+                    "caption": "Hello!",
+                    "mimeType": "JPEG",
+                    "dateCreated": "2021-04-12T09:24:39.059756Z"
+                },
+                {
+                    "id": "61e29bd1ffc238f6418edeee",
+                    "imageUrl": "https://res.cloudinary.com/djisilfwk/image/upload/v1639061050/thriftycab/Docs/dl-2_xmrezp.png",
+                    "caption": "Hello!",
+                    "mimeType": "JPEG",
+                    "dateCreated": "2021-04-12T09:24:39.059756Z"
+                }
+            ]
+        },
+        "status": "Active",
+        "acceptingBooking": true,
+        "lastLocation": {
+            "latitude": "12.34354",
+            "longitude": "35.34345"
+        },
+        "lastLocationUpdatedAt": "2021-04-12T09:24:39.059756Z",
+        "fleetAssigned": {
+            "id": "61e29bd1ffc238f6418edeee",
+            "brandName": "Toyota",
+            "vehicleType": "Sedan",
+            "vehicleTypeId": "61e29bd1ffc238f6418edeee",
+            "modelId": "61e29bd1ffc238f6418edeee",
+            "modelName": "Toyota Fortuner 360",
+            "modelNumber": "GA-24T",
+            "seatingCapacity": 4,
+            "transmissionType": "Automatic",
+            "airBag": true,
+            "fuelType": "Diesel",
+            "vehiclePhotos": [
+                {
+                    "id": "61e29bd1ffc238f6418edeee",
+                    "imageUrl": "https://res.cloudinary.com/djisilfwk/image/upload/v1639059275/thriftycab/Cars/tata-tiago-2_n4kt1i.jpg",
+                    "caption": "Hello!",
+                    "mimeType": "JPEG",
+                    "dateCreated": "2021-04-12T09:24:39.059756Z"
+                }
+            ],
+            "color": "Blue",
+            "vehicleYear": "2015",
+            "enginerNumber": "JFHFH23442424",
+            "chasisNumber": "JFHFH23442424",
+            "registerationNumber": "JFHFH2344242",
+            "status": "Active",
+            "createdAt": "2021-04-12T09:24:39.059756Z",
+            "updatedAt": "2021-04-12T09:24:39.059756Z"
+        },
+        "commission": 10.05,
+        "createdAt": "2021-04-12T09:24:39.059756Z",
+        "updatedAt": "2021-04-12T09:24:39.059756Z"
+    },
+    "message": "Driver Profile Fetched Successfully"
+}

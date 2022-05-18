@@ -1,0 +1,299 @@
+{
+    "statuscode": 200,
+    "body": {
+        "count": 1374,
+        "next": "https://api.example.org/accounts/?limit=100&offset=500",
+        "previous": "https://api.example.org/accounts/?limit=100&offset=500",
+        "result": [
+            {
+                "id": "61e29bd1ffc",
+                "customerId": "61e29bd1ffc238f6418edeee",
+                "customerName": "Pavan kumar",
+                "when": "now",
+                "bookingTime": "string",
+                "pickupCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "pickupAddress": "Nova Road, London",
+                "pickupDatetime": "2021-04-12T09:24:39.059756Z",
+                "dropAddress": "paris Chrm city, londo",
+                "dropCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "dropDatetime": "2021-04-12T09:24:39.059756Z",
+                "totalKmJourney": 55.54,
+                "fareApplied": "Normal",
+                "excessKm": 15.54,
+                "standardFarePerKm": 10,
+                "baseFare": 60,
+                "additonalFare": 353,
+                "subTotalFare": 445,
+                "totalDiscount": 45.54,
+                "totalFare": 401,
+                "paymentMode": "Online",
+                "bookingStatus": "Assigned",
+                "createdAt": "2021-04-12T09:24:39.059756Z",
+                "updatedAt": "2021-04-12T09:24:39.059756Z"
+            },
+            {
+                "id": "61e29bd1ffc",
+                "customerId": "61e29bd1ffc238f6418edeee",
+                "customerName": "Mayank Bansal",
+                "when": "now",
+                "bookingTime": "string",
+                "pickupCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "pickupAddress": "Nova Road, London",
+                "pickupDatetime": "2021-04-12T09:24:39.059756Z",
+                "dropAddress": "Paris Chrm city, london",
+                "dropCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "dropDatetime": "2021-04-12T09:24:39.059756Z",
+                "totalKmJourney": 55.54,
+                "fareApplied": "Night",
+                "excessKm": 15.54,
+                "standardFarePerKm": 10,
+                "baseFare": 60,
+                "additonalFare": 353,
+                "subTotalFare": 445,
+                "totalDiscount": 45.54,
+                "totalFare": 401,
+                "paymentMode": "Cash",
+                "bookingStatus": "Cancelled",
+                "createdAt": "2021-04-12T09:24:39.059756Z",
+                "updatedAt": "2021-04-12T09:24:39.059756Z"
+            },
+            {
+                "id": "61e29bd1ffc",
+                "customerId": "61e29bd1ffc238f6418edeee",
+                "customerName": "Thomas Roe",
+                "when": "Now",
+                "bookingTime": "string",
+                "pickupCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "pickupAddress": "Royal Street Palace, London",
+                "pickupDatetime": "2021-04-12T09:24:39.059756Z",
+                "dropAddress": "Thames River Bridge, London",
+                "dropCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "dropDatetime": "2021-04-12T09:24:39.059756Z",
+                "totalKmJourney": 55.54,
+                "fareApplied": "Weekend",
+                "excessKm": 15.54,
+                "standardFarePerKm": 10,
+                "baseFare": 60,
+                "additonalFare": 353,
+                "subTotalFare": 436,
+                "totalDiscount": 45.54,
+                "totalFare": 497,
+                "paymentMode": "Online",
+                "bookingStatus": "Completed",
+                "createdAt": "2021-04-12T09:24:39.059756Z",
+                "updatedAt": "2021-04-12T09:24:39.059756Z"
+            },
+            {
+                "id": "61e29bd1ffc",
+                "customerId": "61e29bd1ffc238f6418edeee",
+                "customerName": "Thrifty User",
+                "when": "Now",
+                "bookingTime": "string",
+                "pickupCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "pickupAddress": "Shastri Nagar, Kamla Road, New Delhi",
+                "pickupDatetime": "2021-04-12T09:24:39.059756Z",
+                "dropAddress": "RK Puram, near IIT Delhi, New Delhi",
+                "dropCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "dropDatetime": "2022-02-05T15:24:39.059756Z",
+                "totalKmJourney": 55.54,
+                "fareApplied": "Weekend",
+                "excessKm": 20.54,
+                "standardFarePerKm": 15,
+                "baseFare": 100,
+                "additonalFare": 308.10,
+                "subTotalFare": 408,
+                "totalDiscount": 25.54,
+                "totalFare": 383,
+                "paymentMode": "Cash",
+                "bookingStatus": "Ongoing",
+                "createdAt": "2021-04-12T09:24:39.059756Z",
+                "updatedAt": "2021-04-12T09:24:39.059756Z"
+            },
+            {
+                "id": "61e29bd1ffc",
+                "customerId": "61e29bd1ffc238f6418edeee",
+                "customerName": "Mayank Bansal",
+                "when": "now",
+                "bookingTime": "string",
+                "pickupCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "pickupAddress": "Royal Street Palace, London",
+                "pickupDatetime": "2022-02-05T11:58:39.059756Z",
+                "dropAddress": "Thames River Bridge, London",
+                "dropCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "dropDatetime": "2021-04-12T09:24:39.059756Z",
+                "totalKmJourney": 55.54,
+                "fareApplied": "Night",
+                "excessKm": 15.54,
+                "standardFarePerKm": 10,
+                "baseFare": 60,
+                "additonalFare": 353,
+                "subTotalFare": 445,
+                "totalDiscount": 45.54,
+                "totalFare": 791,
+                "paymentMode": "Online",
+                "bookingStatus": "Assigned",
+                "createdAt": "2021-04-12T09:24:39.059756Z",
+                "updatedAt": "2021-04-12T09:24:39.059756Z"
+            },
+            {
+                "id": "61e29bd1ffc",
+                "customerId": "61e29bd1ffc238f6418edeee",
+                "customerName": "Padam Shri",
+                "when": "now",
+                "bookingTime": "string",
+                "pickupCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "pickupAddress": "Royal Street Palace, London",
+                "pickupDatetime": "2022-02-05T11:58:39.059756Z",
+                "dropAddress": "Thames River Bridge, London",
+                "dropCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "dropDatetime": "2022-01-12T15:24:39.059756Z",
+                "totalKmJourney": 55.54,
+                "fareApplied": "Weekend",
+                "excessKm": 15.54,
+                "standardFarePerKm": 10,
+                "baseFare": 60,
+                "additonalFare": 353,
+                "subTotalFare": 445,
+                "totalDiscount": 45.54,
+                "totalFare": 562,
+                "paymentMode": "Cash",
+                "bookingStatus": "Assigned",
+                "createdAt": "2021-04-12T09:24:39.059756Z",
+                "updatedAt": "2021-04-12T09:24:39.059756Z"
+            },
+            {
+                "id": "61e29bd1ffc",
+                "customerId": "61e29bd1ffc238f6418edeee",
+                "customerName": "Parag Jain",
+                "when": "Now",
+                "bookingTime": "string",
+                "pickupCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "pickupAddress": "Royal Street Palace, London",
+                "pickupDatetime": "2021-04-12T09:24:39.059756Z",
+                "dropAddress": "Thames River Bridge, London",
+                "dropCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "dropDatetime": "2021-04-12T09:24:39.059756Z",
+                "totalKmJourney": 55.54,
+                "fareApplied": "Weekend",
+                "excessKm": 15.54,
+                "standardFarePerKm": 10,
+                "baseFare": 60,
+                "additonalFare": 353,
+                "subTotalFare": 436,
+                "totalDiscount": 45.54,
+                "totalFare": 865,
+                "paymentMode": "Cash",
+                "bookingStatus": "Completed",
+                "createdAt": "2021-04-12T09:24:39.059756Z",
+                "updatedAt": "2021-04-12T09:24:39.059756Z"
+            },
+            {
+                "id": "61e29bd1ffc",
+                "customerId": "61e29bd1ffc238f6418edeee",
+                "customerName": "Nayan Kartik",
+                "when": "now",
+                "bookingTime": "string",
+                "pickupCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "pickupAddress": "Hotel Blue Turbine, 4th Avenue Street, London",
+                "pickupDatetime": "2022-02-05T11:58:39.059756Z",
+                "dropAddress": "5th Block down Avenue Parker Street, London",
+                "dropCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "dropDatetime": "2021-04-12T09:24:39.059756Z",
+                "totalKmJourney": 55.54,
+                "fareApplied": "Normal",
+                "excessKm": 15.54,
+                "standardFarePerKm": 10,
+                "baseFare": 60,
+                "additonalFare": 353,
+                "subTotalFare": 445,
+                "totalDiscount": 45.54,
+                "totalFare": 863,
+                "paymentMode": "Online",
+                "bookingStatus": "Assigned",
+                "createdAt": "2021-04-12T09:24:39.059756Z",
+                "updatedAt": "2021-04-12T09:24:39.059756Z"
+            },
+            {
+                "id": "61e29bd1ffc",
+                "customerId": "61e29bd1ffc238f6418edeee",
+                "customerName": "Sunny Boidiwala",
+                "when": "now",
+                "bookingTime": "string",
+                "pickupCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "pickupAddress": "Royal Street Palace, Navi Mumbai",
+                "pickupDatetime": "2022-02-05T11:58:39.059756Z",
+                "dropAddress": "Bajrang Colony, Navi Mumbai",
+                "dropCoordinates": {
+                    "latitude": "12.34354",
+                    "longitude": "35.34345"
+                },
+                "dropDatetime": "2021-04-12T09:24:39.059756Z",
+                "totalKmJourney": 55.54,
+                "fareApplied": "Weekend",
+                "excessKm": 15.54,
+                "standardFarePerKm": 10,
+                "baseFare": 60,
+                "additonalFare": 353,
+                "subTotalFare": 445,
+                "totalDiscount": 45.54,
+                "totalFare": 235,
+                "paymentMode": "Cash",
+                "bookingStatus": "Assigned",
+                "createdAt": "2021-04-12T09:24:39.059756Z",
+                "updatedAt": "2021-04-12T09:24:39.059756Z"
+            }
+        ]
+    },
+    "message": "Pending Local Ride List Fetched Successfully"
+}

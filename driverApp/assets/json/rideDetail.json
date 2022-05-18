@@ -1,0 +1,71 @@
+{
+    "statuscode": 200,
+    "body": {
+        "id": "61e29bd1ffc23",
+        "customerId": "61e29bd1ffc238f6418edeee",
+        "customerName": "Pavan kumar",
+        "when": "now",
+        "bookingTime": "string",
+        "pickupCoordinates": {
+            "latitude": "12.34354",
+            "longitude": "35.34345"
+        },
+        "pickupAddress": "Nova Road, London",
+        "pickupDatetime": "2021-04-12T09:24:39.059756Z",
+        "dropAddress": "paris Chrm city, londo",
+        "dropCoordinates": {
+            "latitude": "12.34354",
+            "longitude": "35.34345"
+        },
+        "dropDatetime": "2021-04-12T11:24:39.059756Z",
+        "cityId": "61e29bd1ffc238f6418edeee",
+        "cityName": "London",
+        "fleetAssigned": {
+            "id": "61e29bd1ffc238f6418edeee",
+            "brandName": "Toyota",
+            "vehicleType": "Sedan",
+            "vehicleTypeId": "61e29bd1ffc238f6418edeee",
+            "modelId": "61e29bd1ffc238f6418edeee",
+            "modelName": "Toyota Fortuner 360",
+            "modelNumber": "GA-24T",
+            "seatingCapacity": 4,
+            "transmissionType": "Automatic",
+            "airBag": true,
+            "fuelType": "Diesel",
+            "vehiclePhotos": [
+                {
+                    "id": "61e29bd1ffc238f6418edeee",
+                    "imageUrl": "https://res.cloudinary.com/djisilfwk/image/upload/v1639059275/thriftycab/Cars/tata-tiago-2_n4kt1i.jpg",
+                    "caption": "Hello!",
+                    "mimeType": "JPEG",
+                    "dateCreated": "2021-04-12T09:24:39.059756Z"
+                }
+            ],
+            "color": "Blue",
+            "vehicleYear": "2015",
+            "enginerNumber": "JFHFH23442424",
+            "chasisNumber": "JFHFH23442424",
+            "registerationNumber": "JFHFH2344242",
+            "status": "Active",
+            "createdAt": "2021-04-12T09:24:39.059756Z",
+            "updatedAt": "2021-04-12T09:24:39.059756Z"
+        },
+        "assignedAt": "2021-04-12T09:24:39.059756Z",
+        "totalKmJourney": 55.55,
+        "fareApplied": "Normal",
+        "excessKm": 15,
+        "standardFarePerKm": 10,
+        "baseFare": 60,
+        "additonalFare": 353,
+        "subTotalFare": 445,
+        "totalDiscount": 45,
+        "totalFare": 401,
+        "paymentMode": "Online",
+        "paymentStatus": "Pending",
+        "bookingStatus": "Completed",
+        "cancellationReason": "Not Interested / Not Availability / No Budget",
+        "createdAt": "2021-04-12T09:24:39.059756Z",
+        "updatedAt": "2021-04-12T09:24:39.059756Z"
+    },
+    "message": "Local Ride Fetched Successfully"
+}

@@ -1,0 +1,32 @@
+{
+    "id": "61e29bd1ffc238f6418edeee",
+    "customerId": "61e29bd1ffc238f6418edeee",
+    "customerName": "Ritesh Shukla",
+    "when": "now",
+    "bookingTime": "string",
+    "pickupCoordinates": {
+        "latitude": "12.34354",
+        "longitude": "35.34345"
+    },
+    "pickupAddress": "Shastri Nagar, Kamla Road, New Delhi",
+    "pickupDatetime": "2021-04-12T09:24:39.059756Z",
+    "dropAddress": "Agarwal Hostel, RK Puram, near IIT Delhi, New Delhi",
+    "dropCoordinates": {
+        "latitude": "12.34354",
+        "longitude": "35.34345"
+    },
+    "dropDatetime": "2021-04-12T09:24:39.059756Z",
+    "totalKmJourney": 55.54,
+    "fareApplied": "Weekend",
+    "excessKm": 15.54,
+    "standardFarePerKm": 10,
+    "baseFare": 90,
+    "additonalFare": 353,
+    "subTotalFare": 445,
+    "totalDiscount": 45.54,
+    "totalFare": 587,
+    "paymentMode": "Cash",
+    "bookingStatus": "Pending",
+    "createdAt": "2021-04-12T09:24:39.059756Z",
+    "updatedAt": "2021-04-12T09:24:39.059756Z"
+}
